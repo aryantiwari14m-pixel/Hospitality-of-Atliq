@@ -16,4 +16,4 @@ hospitality business using historical data.<img width="1292" height="724" alt="S
 - **Platform dependency risk** identified
 
 ## File
-https://app.powerbi.com/view?r=eyJrIjoiZTlkYzY2NjgtNzhjNi00YzVmLTgzYWYtYjk2MDQ2N2VhZDlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://1drv.ms/u/c/01f3bc6081f7de28/IQAVmqAsDyD7TqrAY1qBC6dLASKlrBCd2VOlvHG6nnRHGVc?e=hlaOAQ
