@@ -15,5 +15,5 @@ hospitality business using historical data.<img width="1292" height="724" alt="S
 - **Revenue concentration** across major cities
 - **Platform dependency risk** identified
 
-## File
-https://1drv.ms/u/c/01f3bc6081f7de28/IQAVmqAsDyD7TqrAY1qBC6dLASKlrBCd2VOlvHG6nnRHGVc?e=hlaOAQ
+## Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZTlkYzY2NjgtNzhjNi00YzVmLTgzYWYtYjk2MDQ2N2VhZDlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
