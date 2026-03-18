@@ -2,7 +2,8 @@
 
 This repository contains a Power BI dashboard built to analyze
 **revenue, occupancy, pricing, and booking behavior** for a luxury
-hospitality business using historical data.<img width="1292" height="724" alt="Screenshot 2026-03-18 133934" src="https://github.com/user-attachments/assets/e21367ed-f1fd-4cd7-be76-996e6eb6024b" />
+hospitality business using historical data.<img width="1768" height="999" alt="image" src="https://github.com/user-attachments/assets/914e46f9-5e60-4bb1-b570-f48e2657bf67" />
+
 
 
 ## Tools Used
